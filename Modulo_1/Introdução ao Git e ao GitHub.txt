@@ -1,0 +1,14 @@
+Git e Github – são diferentes.
+
+GIT: Ambiente de desenvolvimento: workinig directory, staging área e Local repositor.
+Servidor. 
+
+GITHUB: remote repositor
+
+Tracked: ciclo entre esses 3 estágios:
+
+1)	Unmodified: arquivo que não sofreu modificação;
+2)	Modified: há modificação do arquivo;
+3)	Staged: arquivos estão sendo preparados para ir para o COMMIT.
+
+
