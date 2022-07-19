@@ -1,2 +1,2 @@
 # CursoCodeGirls
-Curso Code Girls
+Início da Jornada
